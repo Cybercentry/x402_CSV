@@ -1,6 +1,6 @@
 {
   "name": "Cybercentry",
-  "description": "Cybercentry delivers Cybercentry One, empowering individuals and organisations to anticipate, prevent, and respond to cyber threats. Built on Base, it offers a curated suite of AI-powered security services focused on Compliance, Intelligence, and Protection. With x402, Cybercentry enables seamless, accountless micropayments over HTTPS for real-time access to security scans, threat intelligence feeds, and automated audits—ensuring smarter, simpler, and more accessible cyber security for all.",
+  "description": "Cybercentry delivers Cybercentry One, empowering individuals and organisations to anticipate, prevent, and respond to cyber threats. Built on Base, it offers a curated suite of AI-powered security services focused on Compliance, Intelligence, and Protection. With x402, Cybercentry enables seamless, accountless micropayments over HTTP for real-time access to security scans, threat intelligence feeds, and automated audits—ensuring smarter, simpler, and more accessible cyber security for all.",
   "logoUrl": "https://centry.cybercentry.co.uk/cdn/shop/files/Cybercentry_Logo_White.png?v=1740470407&width=1000",
   "websiteUrl": "https://cybercentry.gitbook.io/cybercentry/",
   "category": "Services/Endpoints"
